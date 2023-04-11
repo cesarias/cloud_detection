@@ -53,6 +53,48 @@ This tutorial outlines the functions of VPN's and being able to provide secure a
 </p>
 
 <p>
+<img src="https://i.imgur.com/rxOCFvc.png" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ A few quick searches in our Google Browser to show the changes in language and URL's.
+</p>
+
+<p>
+<img src="https://i.imgur.com/rxOCFvc.png" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ A few quick searches in our Google Browser to show the changes in language and URL's.
+</p>
+
+<p>
+<img src="https://i.imgur.com/rxOCFvc.png" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ A few quick searches in our Google Browser to show the changes in language and URL's.
+</p>
+
+<p>
+<img src="https://i.imgur.com/rxOCFvc.png" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ A few quick searches in our Google Browser to show the changes in language and URL's.
+</p>
+
+<p>
+<img src="https://i.imgur.com/rxOCFvc.png" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ A few quick searches in our Google Browser to show the changes in language and URL's.
+</p>
+
+<p>
+<img src="https://i.imgur.com/rxOCFvc.png" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ A few quick searches in our Google Browser to show the changes in language and URL's.
+</p>
+
+<p>
 <img src="https://i.imgur.com/RSvlxYP.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
