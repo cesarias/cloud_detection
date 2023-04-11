@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/eStWstA.png" height="30%" width="30%" alt="Sentinel logo"/>
+<img src="https://i.imgur.com/tMxbbpd.png" height="70%" width="70%" alt="Sentinel logo"/>
 </p>
 
 <h1> Azure Clould Detection Lab </h1>
