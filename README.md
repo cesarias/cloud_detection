@@ -121,6 +121,9 @@ This Lab demonstrates setting up Analytic Rules to detect Security events in Sen
 <img src="https://i.imgur.com/ji4rBps.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
- Here ticket was assigned, status was made active and after research we close out the incident in Sentinel as a False Positive. 
+ Here ticket was assigned, status was made active and after research we close out the incident in Sentinel as a False Positive.
+ 
+ 
+ Thank you for viewing. 
 </p>
 <br />
